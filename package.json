@@ -19,6 +19,6 @@
   "author": "Matteo Manzinello",
   "license": "MIT",
   "dependencies": {
-    "yargs": "^11.0.0"
+    "yargs": "^13.2.2"
   }
 }
